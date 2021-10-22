@@ -1,3 +1,4 @@
+## Oiii eu sou o Luccas, curto muito conteúdos de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Luccas-cyber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luccas-cyber&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,5 +17,7 @@
 </div>
   
   ##
+  
+  ![Snake animation](https://github.com/Luccas-cyber/Luccas-cyber/blob/output/github-contribution-grid-snake.svg)
  
 </div>
