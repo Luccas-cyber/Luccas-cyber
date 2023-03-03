@@ -16,7 +16,5 @@
 </div>
   
   ##
-  
-  ![Snake animation](https://github.com/Luccas-cyber/Luccas-cyber/blob/output/github-contribution-grid-snake.svg)
  
 </div>
