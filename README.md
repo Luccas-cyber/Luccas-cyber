@@ -13,7 +13,6 @@
   <img align="center" alt="Luccas-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Luccas-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Luccas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Luccas-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/a9/e9/60/a9e960c76b86ada9f7fb67b85397b2c9.jpg?width=676&height=676">
 </div>
   
   ##
